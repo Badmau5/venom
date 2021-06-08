@@ -3,7 +3,7 @@
 Проект выполнил: Слепченко Евгений
 
 В проекте используются:
-HTML
-CSS
-JS
-Normalize
+-HTML
+-CSS
+-JS
+-Normalize
